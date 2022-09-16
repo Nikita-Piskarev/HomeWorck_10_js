@@ -1,3 +1,4 @@
+'use strict'
 // Функция которая принимает строку и возвращает количество слов в ней.
 // const str ="The MDN Web Docs site provides information about Open Web technologies including HTML";
 
